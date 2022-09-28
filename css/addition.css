@@ -1,0 +1,12 @@
+.item_text {
+	display: flex;
+	/* align-items: center; */
+	flex-direction: row-reverse;
+	justify-content: center;
+}
+
+.item_text_sub-menu {
+	gap: 70px;
+}
+
+.primary-nav ul li ul .menu-item a {}
